@@ -2,6 +2,8 @@
 
 A minimal, standalone C# Windows application that captures audio from a selected microphone and plays it back through a selected output device (headphones/speakers) with real-time volume control.
 
+<img width="386" height="293" alt="Screenshot 2026-01-17 024159" src="https://github.com/user-attachments/assets/b7d81aa6-a891-4bd1-83c2-8bddf9306eb3" />
+
 ## 🚀 Why This Was Built
 
 Many users need to monitor their own microphone audio (to check levels, listen for background noise, or just hear themselves) without the lag introduced by standard Windows "Listen to this device" feature or heavy DAW software. 
